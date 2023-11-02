@@ -1,0 +1,618 @@
+[
+    {
+        "clave": "5",
+        "Producto": "CUERVO TRADICIONAL",
+        "Comision": "1"
+    },
+    {
+        "clave": "6",
+        "Producto": "HERRADURA REPOSADO",
+        "Comision": "1"
+    },
+    {
+        "clave": "76",
+        "Producto": "1800",
+        "Comision": "1"
+    },
+    {
+        "clave": "77",
+        "Producto": "CUERVO ESPECIAL",
+        "Comision": "1"
+    },
+    {
+        "clave": "78",
+        "Producto": "COMPADRE",
+        "Comision": "1"
+    },
+    {
+        "clave": "81",
+        "Producto": "HERRADURA BLANCO",
+        "Comision": "1"
+    },
+    {
+        "clave": "344",
+        "Producto": "DON JULIO 70",
+        "Comision": "1"
+    },
+    {
+        "clave": "367",
+        "Producto": "1800 CRI5T.",
+        "Comision": "1"
+    },
+    {
+        "clave": "463",
+        "Producto": "BOT. DON JULIO 70",
+        "Comision": "0"
+    },
+    {
+        "clave": "466",
+        "Producto": "MEZCAL",
+        "Comision": "1"
+    },
+    {
+        "clave": "523",
+        "Producto": "1800 CRISTALINO",
+        "Comision": "1"
+    },
+    {
+        "clave": "11",
+        "Producto": "BACARDI BLANCO SOLERA",
+        "Comision": "1"
+    },
+    {
+        "clave": "13",
+        "Producto": "FLOR DE CANA 7 A",
+        "Comision": "1"
+    },
+    {
+        "clave": "17",
+        "Producto": "TORRES 10",
+        "Comision": "1"
+    },
+    {
+        "clave": "473",
+        "Producto": "TORRES 15",
+        "Comision": "1"
+    },
+    {
+        "clave": "688",
+        "Producto": "BOTELLA TORRES 5",
+        "Comision": "0"
+    },
+    {
+        "clave": "19",
+        "Producto": "ABSOLUT AZUL",
+        "Comision": "0"
+    },
+    {
+        "clave": "91",
+        "Producto": "OSO NEGRO",
+        "Comision": "1"
+    },
+    {
+        "clave": "22",
+        "Producto": "BUCHANA S 12",
+        "Comision": "1"
+    },
+    {
+        "clave": "23",
+        "Producto": "CHIVAS",
+        "Comision": "0"
+    },
+    {
+        "clave": "24",
+        "Producto": "ETIQUETA NEGRA",
+        "Comision": "1"
+    },
+    {
+        "clave": "25",
+        "Producto": "BUCHANAS 18",
+        "Comision": "1"
+    },
+    {
+        "clave": "93",
+        "Producto": "ETIQUETA ROJA",
+        "Comision": "1"
+    },
+    {
+        "clave": "224",
+        "Producto": "LAMBRUSCO 750",
+        "Comision": "0"
+    },
+    {
+        "clave": "266",
+        "Producto": "COPA DE VINO",
+        "Comision": "0"
+    },
+    {
+        "clave": "491",
+        "Producto": "CUATRO SOLES",
+        "Comision": "0"
+    },
+    {
+        "clave": "520",
+        "Producto": "RESERVADO CONCHA",
+        "Comision": "0"
+    },
+    {
+        "clave": "34",
+        "Producto": "BAYLES",
+        "Comision": "0"
+    },
+    {
+        "clave": "35",
+        "Producto": "CHICHON DULCE",
+        "Comision": "0"
+    },
+    {
+        "clave": "36",
+        "Producto": "CHICHON SECO",
+        "Comision": "0"
+    },
+    {
+        "clave": "37",
+        "Producto": "SAMBUCA VACCARI",
+        "Comision": "0"
+    },
+    {
+        "clave": "351",
+        "Producto": "CAMPECHANO",
+        "Comision": "0"
+    },
+    {
+        "clave": "38",
+        "Producto": "AMARETO DI SARONO",
+        "Comision": "0"
+    },
+    {
+        "clave": "39",
+        "Producto": "KHALUA",
+        "Comision": "0"
+    },
+    {
+        "clave": "40",
+        "Producto": "LICOR 43",
+        "Comision": "0"
+    },
+    {
+        "clave": "98",
+        "Producto": "CONTROY",
+        "Comision": "0"
+    },
+    {
+        "clave": "127",
+        "Producto": "ZAMBUCA NGO.",
+        "Comision": "0"
+    },
+    {
+        "clave": "143",
+        "Producto": "FRAN YAELICO",
+        "Comision": "0"
+    },
+    {
+        "clave": "152",
+        "Producto": "ZAMUCA VCO.",
+        "Comision": "0"
+    },
+    {
+        "clave": "362",
+        "Producto": "STREGA",
+        "Comision": "0"
+    },
+    {
+        "clave": "57",
+        "Producto": "JARRA DE CLERIOCOT",
+        "Comision": "5"
+    },
+    {
+        "clave": "58",
+        "Producto": "JARRA DE CAIPIRINHA",
+        "Comision": "5"
+    },
+    {
+        "clave": "59",
+        "Producto": "JARRA DE CAIPIFRUTA",
+        "Comision": "4"
+    },
+    {
+        "clave": "100",
+        "Producto": "CAIPIFRUTAS",
+        "Comision": "1"
+    },
+    {
+        "clave": "133",
+        "Producto": "RUSA",
+        "Comision": "0"
+    },
+    {
+        "clave": "137",
+        "Producto": "1/2 JARRA D CAIPIRINNA",
+        "Comision": "2"
+    },
+    {
+        "clave": "163",
+        "Producto": "JARRA DE CONGA",
+        "Comision": "4"
+    },
+    {
+        "clave": "203",
+        "Producto": "JARRA DE BULL",
+        "Comision": "5"
+    },
+    {
+        "clave": "267",
+        "Producto": "1/2 JARRA DE CONGA",
+        "Comision": "2"
+    },
+    {
+        "clave": "297",
+        "Producto": "1/2 J. CAIPIFRUTAS",
+        "Comision": "2"
+    },
+    {
+        "clave": "299",
+        "Producto": "1/2 J.CLERICOT",
+        "Comision": "2"
+    },
+    {
+        "clave": "411",
+        "Producto": "1/2 JARRA BULL",
+        "Comision": "2"
+    },
+    {
+        "clave": "489",
+        "Producto": "PINADA",
+        "Comision": "0"
+    },
+    {
+        "clave": "541",
+        "Producto": "JARRA DE JAMAICA",
+        "Comision": "4"
+    },
+    {
+        "clave": "629",
+        "Producto": "CONGA",
+        "Comision": "1"
+    },
+    {
+        "clave": "689",
+        "Producto": "JARRA DE HORCHATA",
+        "Comision": "4"
+    },
+    {
+        "clave": "690",
+        "Producto": "1/2 JARRA JAMAICA",
+        "Comision": "2"
+    },
+    {
+        "clave": "691",
+        "Producto": "1/2 JARRA HORCHATA",
+        "Comision": "2"
+    },
+    {
+        "clave": "692",
+        "Producto": "COPA JAMAICA",
+        "Comision": "1"
+    },
+    {
+        "clave": "693",
+        "Producto": "COPA HORCHATA",
+        "Comision": "1"
+    },
+    {
+        "clave": "61",
+        "Producto": "BULL",
+        "Comision": "1"
+    },
+    {
+        "clave": "62",
+        "Producto": "CLAMATO",
+        "Comision": "0"
+    },
+    {
+        "clave": "63",
+        "Producto": "COPA CLRERICOT",
+        "Comision": "0"
+    },
+    {
+        "clave": "64",
+        "Producto": "MARGARITA",
+        "Comision": "1"
+    },
+    {
+        "clave": "65",
+        "Producto": "MEDIAS DE SEDA",
+        "Comision": "1"
+    },
+    {
+        "clave": "69",
+        "Producto": "VAMPIRO",
+        "Comision": "1"
+    },
+    {
+        "clave": "70",
+        "Producto": "CAIPIRINHA",
+        "Comision": "1"
+    },
+    {
+        "clave": "164",
+        "Producto": "PREPARADO DE CLERICOT",
+        "Comision": "0"
+    },
+    {
+        "clave": "193",
+        "Producto": "BEERMATO CORONA",
+        "Comision": "0"
+    },
+    {
+        "clave": "195",
+        "Producto": "CHELADA CORONA",
+        "Comision": "0"
+    },
+    {
+        "clave": "337",
+        "Producto": "JARRA 7 MARES",
+        "Comision": "5"
+    },
+    {
+        "clave": "382",
+        "Producto": "JARRA LAGUNA AZUL",
+        "Comision": "5"
+    },
+    {
+        "clave": "384",
+        "Producto": "JARRA LIM ELECTRICA",
+        "Comision": "5"
+    },
+    {
+        "clave": "481",
+        "Producto": "PINA COLADA CON BAYLES",
+        "Comision": "1"
+    },
+    {
+        "clave": "483",
+        "Producto": "CARAJILLO",
+        "Comision": "2"
+    },
+    {
+        "clave": "494",
+        "Producto": "MICHELADA",
+        "Comision": "0"
+    },
+    {
+        "clave": "524",
+        "Producto": "PALOMA",
+        "Comision": "1"
+    },
+    {
+        "clave": "525",
+        "Producto": "MANGOCHELA/ULTRA",
+        "Comision": "0"
+    },
+    {
+        "clave": "544",
+        "Producto": "MICHELADA VICTORIA",
+        "Comision": "0"
+    },
+    {
+        "clave": "545",
+        "Producto": "MICHELADA ULTRA",
+        "Comision": "0"
+    },
+    {
+        "clave": "546",
+        "Producto": "MICHELADA MOD. ESPECIAL",
+        "Comision": "0"
+    },
+    {
+        "clave": "547",
+        "Producto": "BEERMATO VICTORIA",
+        "Comision": "0"
+    },
+    {
+        "clave": "548",
+        "Producto": "BEERMATO ULTRA",
+        "Comision": "0"
+    },
+    {
+        "clave": "549",
+        "Producto": "BEERMATO MOD. ESPECIAL",
+        "Comision": "0"
+    },
+    {
+        "clave": "550",
+        "Producto": "CHELADA VICTORIA",
+        "Comision": "0"
+    },
+    {
+        "clave": "551",
+        "Producto": "CHELADA ULTRA",
+        "Comision": "0"
+    },
+    {
+        "clave": "552",
+        "Producto": "CHELADA MOD. ESPECIAL",
+        "Comision": "0"
+    },
+    {
+        "clave": "556",
+        "Producto": "BERMATO NEGRA MODELO",
+        "Comision": "0"
+    },
+    {
+        "clave": "557",
+        "Producto": "MICHELADA NEGRA MODELO",
+        "Comision": "0"
+    },
+    {
+        "clave": "558",
+        "Producto": "PINA",
+        "Comision": "0"
+    },
+    {
+        "clave": "568",
+        "Producto": "JARRA PINA COLADA C/RON",
+        "Comision": "0"
+    },
+    {
+        "clave": "571",
+        "Producto": "PERLAS NEGRAS",
+        "Comision": "0"
+    },
+    {
+        "clave": "572",
+        "Producto": "CLAMATOO",
+        "Comision": "0"
+    },
+    {
+        "clave": "573",
+        "Producto": "BERMATO",
+        "Comision": "0"
+    },
+    {
+        "clave": "574",
+        "Producto": "SEXO PLAYA",
+        "Comision": "0"
+    },
+    {
+        "clave": "578",
+        "Producto": "1/2 LIM. ELECTRICA",
+        "Comision": "2"
+    },
+    {
+        "clave": "590",
+        "Producto": "MICHELADA/STELLA",
+        "Comision": "0"
+    },
+    {
+        "clave": "592",
+        "Producto": "BEERMATO BUD L.",
+        "Comision": "0"
+    },
+    {
+        "clave": "594",
+        "Producto": "MICHELADA BUD LIGHT",
+        "Comision": "0"
+    },
+    {
+        "clave": "604",
+        "Producto": "SERVICIO (AGUA MINERAL)",
+        "Comision": "0"
+    },
+    {
+        "clave": "621",
+        "Producto": "MANGO CHELA/CORONA",
+        "Comision": "0"
+    },
+    {
+        "clave": "680",
+        "Producto": "1/2 JARRA VAMPIRO",
+        "Comision": "2"
+    },
+    {
+        "clave": "118",
+        "Producto": "CAFE CAPUCHINO",
+        "Comision": "1"
+    },
+    {
+        "clave": "119",
+        "Producto": "CAFE AMERICANO",
+        "Comision": "1"
+    },
+    {
+        "clave": "197",
+        "Producto": "CAFE EXPRESO",
+        "Comision": "1"
+    },
+    {
+        "clave": "485",
+        "Producto": "CHEESECAKE ZARZAMORA",
+        "Comision": "1"
+    },
+    {
+        "clave": "486",
+        "Producto": "CHEESECAKE LIMON",
+        "Comision": "1"
+    },
+    {
+        "clave": "487",
+        "Producto": "CHEESCAKE DE FRUTAS",
+        "Comision": "1"
+    },
+    {
+        "clave": "488",
+        "Producto": "CHOCOFLAN",
+        "Comision": "1"
+    },
+    {
+        "clave": "497",
+        "Producto": "CHEESECAKE TORTUGA",
+        "Comision": "1"
+    },
+    {
+        "clave": "501",
+        "Producto": "PAY DE QUESO",
+        "Comision": "1"
+    },
+    {
+        "clave": "505",
+        "Producto": "CHEESECAKE FRESA",
+        "Comision": "1"
+    },
+    {
+        "clave": "506",
+        "Producto": "FLAN",
+        "Comision": "1"
+    },
+    {
+        "clave": "509",
+        "Producto": "PASTEL CHOCOLATE",
+        "Comision": "1"
+    },
+    {
+        "clave": "511",
+        "Producto": "FRUTOS ROJOS",
+        "Comision": "1"
+    },
+    {
+        "clave": "514",
+        "Producto": "CHOCOMILK",
+        "Comision": "0"
+    },
+    {
+        "clave": "515",
+        "Producto": "FRAPPE",
+        "Comision": "0"
+    },
+    {
+        "clave": "561",
+        "Producto": "PASTEL 3 LECHES",
+        "Comision": "1"
+    },
+    {
+        "clave": "587",
+        "Producto": "CHEESECAKE TURIN",
+        "Comision": "1"
+    },
+    {
+        "clave": "605",
+        "Producto": "PAY CASEROS",
+        "Comision": "1"
+    },
+    {
+        "clave": "649",
+        "Producto": "CAFE MANANERO",
+        "Comision": "1"
+    },
+    {
+        "clave": "652",
+        "Producto": "CHOCOFLAN CAJETA",
+        "Comision": "1"
+    },
+    {
+        "clave": "686",
+        "Producto": "PASTEL 1",
+        "Comision": "1"
+    }
+
+    ]
